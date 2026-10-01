@@ -1,0 +1,10 @@
+default:
+  target: prod
+  outputs:
+    prod:
+      type: snowflake
+      account: a3209653506471-sales_eng_demo
+      warehouse: DEFAULT
+      database: HICHAM_DBT_ON_SNOWFLAKE_TEST
+      schema: DBT_POC
+      role: SE_DEMO_ROLE
