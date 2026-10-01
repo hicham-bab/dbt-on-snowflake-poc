@@ -1,0 +1,3 @@
+select 1 as customer_id, 'alice' as name
+union all
+select 2 as customer_id, 'bob' as name

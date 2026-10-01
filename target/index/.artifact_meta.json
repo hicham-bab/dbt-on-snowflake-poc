@@ -1,0 +1,20 @@
+{
+  "target_dir": "/private/tmp/claude-504/-Users-hichambabahmed/351345c3-c398-4857-acf4-e43c173b77f5/scratchpad/dbt-on-snowflake-poc/target",
+  "fingerprints": {
+    "manifest.json": {
+      "size": 590642,
+      "modified_secs": 1790847989
+    },
+    "run_results.json": {
+      "size": 343,
+      "modified_secs": 1790847989
+    },
+    "semantic_manifest.json": {
+      "size": 234,
+      "modified_secs": 1790847989
+    }
+  },
+  "write_source": "JsonIngest",
+  "context_dir": null,
+  "context_fingerprints": {}
+}
